@@ -1,218 +1,250 @@
-<h1 align="center">Xin chào 👋, tôi là sin0235</h1>
-<h3 align="center">Một lập trình viên đam mê từ Việt Nam 🇻🇳</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Chào+mừng+đến+với+GitHub+của+tôi!;Lập+trình+viên+Full-stack;Luôn+học+hỏi+điều+mới+mẻ;Đam+mê+công+nghệ;Yêu+thích+giải+quyết+vấn+đề;Code+is+Life!" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sin0235&fontSize=80&fontAlignY=35&desc=Passionate%20Developer%20from%20Vietnam&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=sin0235&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Passionate%20Developer%20%7C%20Creative%20Coder%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62&descSize=20" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sin0235&label=Lượt+xem+profile&color=0e75b6&style=flat" alt="sin0235" />
-  <img src="https://img.shields.io/github/followers/sin0235?label=Người+theo+dõi&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Quốc+gia-Việt+Nam-red?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjREEwMjBFIi8+Cjxwb2x5Z29uIHBvaW50cz0iMTIsMy41IDE0LjU5LDkuNDEgMjEsOS40MSAxNS45MSwxMy4wOSAxOC41LDE5IDEyLDE1LjQxIDUuNSwxOSA4LjA5LDEzLjA5IDMsOS40MSA5LjQxLDkuNDEiIGZpbGw9IiNGRkQ3MDAiLz4KPC9zdmc+" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=👋+Xin+chào%2C+tôi+là+sin0235;🚀+Passionate+IT+Student;💻+Full-stack+Developer+in+Making;🌟+Always+Learning%2C+Always+Growing;🇻🇳+Coding+from+Vietnam" />
+</h1>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 🚀 Giới thiệu về tôi
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sin0235&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/github/followers/sin0235?label=👥+Followers&style=for-the-badge&color=blue&labelColor=black" />
+  <img src="https://img.shields.io/badge/🇻🇳+Vietnam-red?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/🎓+IT+Student-orange?style=for-the-badge&labelColor=black" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sin0235&show_icons=true&theme=radical&hide_border=true&background=0d1117&title_color=F85D7F&icon_color=F8D866&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sin0235&theme=radical&hide_border=true&background=0d1117&stroke=ffffff&ring=F85D7F&fire=F8D866&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=ffffff" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sin0235&bg_color=0d1117&color=F85D7F&line=F8D866&point=ffffff&area=true&hide_border=true&theme=github-compact" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Về tôi**
+
+<img align="right" width="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 
 ```javascript
 const sin0235 = {
-    tên: "sin0235",
-    quốcTịch: "Việt Nam 🇻🇳",
-    thànhPhố: "Thành phố Hồ Chí Minh",
-    nghềNghiệp: "Lập trình viên",
-    ngônNgữLậpTrình: ["JavaScript", "Python", "Java", "C++"],
-    frameworkYêuThích: ["React", "Node.js", "Express", "Django"],
-    sởThích: ["Coding", "Game", "Đọc sách", "Du lịch", "Cà phê"],
-    mụcTiêu2025: "Trở thành Senior Developer và đóng góp cho cộng đồng Open Source"
+    name: "sin0235",
+    location: "🇻🇳 Vietnam",
+    role: "🎓 IT Student",
+    passion: "💻 Coding & Technology",
+    languages: ["JavaScript", "Python", "Java"],
+    learning: ["React", "Node.js", "AI/ML"],
+    hobbies: ["🎮 Gaming", "📚 Reading", "🎵 Music"],
+    lifePhilosophy: "Code. Learn. Repeat. 🔄",
+    availableForWork: true,
+    currentMood: "🚀 Ready to build amazing things!"
 };
 ```
 
-- 🔭 Hiện tại tôi đang làm việc trên **các dự án web thú vị**
-- 🌱 Đang học **AI/Machine Learning và Cloud Computing**
-- 👯 Muốn hợp tác trong **các dự án open source**
-- 🤔 Cần giúp đỡ về **System Design và Architecture**
-- 💬 Hỏi tôi về **JavaScript, React, Python hoặc bất cứ điều gì liên quan đến tech**
-- 📫 Liên hệ: **sin0235@gmail.com**
-- ⚡ Sự thật thú vị: **Tôi có thể code cả ngày với cà phê và nhạc lofi! ☕🎵**
+<br>
 
----
+### 🎯 **Hiện tại tôi đang:**
+- 🔭 Học **React & Node.js** để trở thành Full-stack Developer
+- 🌱 Khám phá **AI/Machine Learning** và **Cloud Technologies**
+- 👯 Tìm kiếm cơ hội **thực tập** và **dự án thực tế**
+- 🤔 Nghiên cứu **System Design** và **Best Practices**
+- 💬 Chia sẻ kiến thức về **Web Development**
+- ⚡ **Fun fact:** Có thể debug code trong lúc ngủ! 😴💭
 
-## 🛠️ Kỹ năng & Công nghệ
-
-### 💻 Ngôn ngữ lập trình
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,php" />
-</p>
-
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass" />
-</p>
-
-### ⚡ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,php" />
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws" />
-</p>
-
-### 🔧 Tools & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
-</p>
-
----
-
-## 📊 Thống kê GitHub
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sin0235&show_icons=true&theme=tokyonight&hide_border=true&locale=en&custom_title=Thống+kê+GitHub+của+sin0235" alt="sin0235" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sin0235&theme=tokyonight&hide_border=true" alt="sin0235" width="48%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Stack**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sin0235&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&custom_title=Ngôn+ngữ+sử+dụng+nhiều+nhất" alt="sin0235" width="50%" />
+
+### 💻 **Languages**
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,cpp&theme=dark" />
+
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,sass,figma&theme=dark" />
+
+### ⚡ **Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,firebase&theme=dark" />
+
+### 🛠️ **Tools & Others**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
+
 </div>
 
----
-
-## 🏆 Thành tích GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sin0235&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="sin0235" />
-</p>
-
----
-
-## 📈 Biểu đồ hoạt động
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sin0235&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&custom_title=Biểu+đồ+đóng+góp+hàng+ngày" alt="sin0235" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin0235&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F&text_color=ffffff" />
 </div>
 
----
-
-## 🌟 Dự án nổi bật
+<br>
 
 <div align="center">
-  <a href="https://github.com/sin0235/Sin0235">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=Sin0235&theme=tokyonight&hide_border=true" alt="Profile README" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> **GitHub Analytics**
 
-## 📚 Blog & Bài viết
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sin0235&theme=radical" />
+</div>
 
-<!-- BLOG-POST-LIST:START -->
-- 🔥 **[Hướng dẫn React từ cơ bản đến nâng cao]** - 25/05/2025
-- 💡 **[10 mẹo JavaScript mà mọi developer nên biết]** - 20/05/2025
-- 🚀 **[Xây dựng API với Node.js và Express]** - 15/05/2025
-- 🎯 **[Clean Code: Viết code sạch và dễ maintain]** - 10/05/2025
-<!-- BLOG-POST-LIST:END -->
+<br>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sin0235&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sin0235&theme=radical" />
+</div>
 
-## 🎯 Mục tiêu năm 2025
+<br>
 
-```markdown
-📋 TODO List:
-- [x] Học React và Node.js
-- [x] Tạo portfolio website
-- [ ] Đóng góp cho 10 dự án open source
-- [ ] Viết 20 bài blog về lập trình
-- [ ] Học AWS và Cloud Computing
-- [ ] Xây dựng một ứng dụng full-stack hoàn chỉnh
-- [ ] Tham gia hackathon
-- [ ] Mentoring cho junior developers
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sin0235&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sin0235&theme=radical&utcOffset=7" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sin0235&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> **Connect With Me**
+
+<div align="center">
+
+### 🌐 **Hãy kết nối và cùng nhau phát triển!**
+
+<br>
+
+<a href="mailto:sin0235@gmail.com">
+  <img src="https://img.shields.io/badge/📧+Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sin0235">
+  <img src="https://img.shields.io/badge/🐙+GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+</a>
+&nbsp;&nbsp;
+<a href="https://facebook.com/sin0235">
+  <img src="https://img.shields.io/badge/📘+Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/sin0235">
+  <img src="https://img.shields.io/badge/💬+Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" />
+</a>
+
+<br><br>
+
+### 💌 **Email:** sin0235@gmail.com
+### 🌍 **Location:** Vietnam 🇻🇳
+### 💼 **Status:** Open for opportunities!
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32"> **Fun Zone**
+
+<div align="center">
+
+### 🎯 **Coding Journey**
+```
+Beginner  ████████████████████████████████████████  Expert
+                                    👈 sin0235 (75%)
 ```
 
----
-
-## 🤝 Kết nối với tôi
-
-<p align="center">
-  <a href="mailto:sin0235@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/sin0235" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/sin0235" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://discord.gg/sin0235" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
----
-
-## 💰 Ủng hộ tôi
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sin0235">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/sin0235">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-</p>
-
----
-
-## 🎵 Spotify - Đang nghe
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=sin0235&count=3&unique=true" alt="Spotify recently played" />
-</div>
-
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sin0235/sin0235/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📈 WakaTime Stats
-
-<!--START_SECTION:waka-->
-```text
-Week: 19 May, 2025 - 25 May, 2025
-
-JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.2%
-Python       6 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.1%
-HTML         3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.4%
-CSS          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   6.0%
-JSON         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
+### ☕ **Coffee to Code Converter**
+```javascript
+while (coffee.available() && !project.isComplete()) {
+    code();
+    debug();
+    repeat();
+}
 ```
-<!--END_SECTION:waka-->
 
----
+### 🌟 **Daily Motivation**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Cảm+ơn+bạn+đã+ghé+thăm+profile+của+tôi!;Hãy+kết+nối+và+cùng+nhau+phát+triển!;Happy+Coding!+🚀" alt="Footer Typing SVG" />
-</p>
+<br>
 
-<p align="center">
-  <i>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<p align="center">
-  <i>⭐️ Từ <a href="https://github.com/sin0235">sin0235</a> với ❤️</i>
-</p>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> **Recent Activity**
+
+<!--START_SECTION:activity-->
+<!-- This section will be auto-updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+
+### 🎨 **Profile Views Snake**
+<img src="https://raw.githubusercontent.com/sin0235/sin0235/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=✨+Cảm+ơn+bạn+đã+ghé+thăm!+✨;🚀+Let's+build+something+amazing+together!;💫+Always+open+for+collaboration!;🌟+Happy+Coding!+🌟" />
+</div>
+
+<div align="center">
+  <h3>💝 Made with ❤️ by sin0235</h3>
+  <p><i>"Code is poetry written in logic"</i></p>
+</div>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
+</div>
