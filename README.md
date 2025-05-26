@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sin0235&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/github/followers/sin0235?label=👥+Followers&style=for-the-badge&color=blue&labelColor=black" />
+  <img src="https://img.shields.io/github/followers/sin0235?style=for-the-badge&logo=github&label=Followers&color=blue&labelColor=black" />
   <img src="https://img.shields.io/badge/🇻🇳+Vietnam-red?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/🎓+IT+Student-orange?style=for-the-badge&labelColor=black" />
 </div>
