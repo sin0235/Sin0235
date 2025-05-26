@@ -38,9 +38,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Về tôi**
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"> **Về tôi**
 
-<img align="right" width="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```javascript
 const sin0235 = {
@@ -73,7 +73,7 @@ const sin0235 = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Stack**
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"> **Tech Stack**
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const sin0235 = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> **GitHub Analytics**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sin0235&theme=radical" />
@@ -129,7 +129,7 @@ const sin0235 = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> **GitHub Trophies**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> **GitHub Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sin0235&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
@@ -141,7 +141,7 @@ const sin0235 = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> **Connect With Me**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> **Connect With Me**
 
 <div align="center">
 
@@ -149,7 +149,7 @@ const sin0235 = {
 
 <br>
 
-<a href="mailto:sin0235@gmail.com">
+<a href="mailto:phuctoan235@gmail.com">
   <img src="https://img.shields.io/badge/📧+Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
@@ -157,7 +157,7 @@ const sin0235 = {
   <img src="https://img.shields.io/badge/🐙+GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
-<a href="https://facebook.com/sin0235">
+<a href="https://www.facebook.com/psin235">
   <img src="https://img.shields.io/badge/📘+Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
@@ -167,7 +167,7 @@ const sin0235 = {
 
 <br><br>
 
-### 💌 **Email:** sin0235@gmail.com
+### 💌 **Email:** phuctoan235@gmail.com
 ### 🌍 **Location:** Vietnam 🇻🇳
 ### 💼 **Status:** Open for opportunities!
 
@@ -179,7 +179,7 @@ const sin0235 = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32"> **Fun Zone**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> **Fun Zone**
 
 <div align="center">
 
@@ -224,7 +224,7 @@ while (coffee.available() && !project.isComplete()) {
 <div align="center">
 
 ### 🎨 **Profile Views Snake**
-<img src="https://raw.githubusercontent.com/sin0235/sin0235/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
