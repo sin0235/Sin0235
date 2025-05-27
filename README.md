@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=sin0235&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Passionate%20Developer%20%7C%20Creative%20Coder%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SIN&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Passionate%20Developer%20%7C%20Creative%20Coder%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62&descSize=20" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=👋+Xin+chào%2C+tôi+là+sin0235;🚀+Passionate+IT+Student;💻+Full-stack+Developer+in+Making;🌟+Always+Learning%2C+Always+Growing;🇻🇳+Coding+from+Vietnam" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=👋+Xin+chào%2C+tôi+là+Sin;🚀+Passionate+IT+Student;💻+Full-stack+Developer+in+Making;🌟+Always+Learning%2C+Always+Growing;🇻🇳+Coding+from+Vietnam" />
 </h1>
 
 <div align="center">
