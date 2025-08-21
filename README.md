@@ -57,28 +57,6 @@ const sin0235 = {
 };
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"> **Tech Stack**
-
-<div align="center">
-
-### 💻 **Languages**
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,cpp&theme=dark" />
-
-### 🎨 **Frontend**
-<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,sass,figma&theme=dark" />
-
-### ⚡ **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,firebase&theme=dark" />
-
-### 🛠️ **Tools & Others**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
-
-</div>
-
 <br>
 
 <div align="center">
