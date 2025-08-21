@@ -57,18 +57,6 @@ const sin0235 = {
 };
 ```
 
-<br>
-
-### 🎯 **Hiện tại tôi đang:**
-- 🔭 Học **React & Node.js** để trở thành Full-stack Developer
-- 🌱 Khám phá **AI/Machine Learning** và **Cloud Technologies**
-- 👯 Tìm kiếm cơ hội **thực tập** và **dự án thực tế**
-- 🤔 Nghiên cứu **System Design** và **Best Practices**
-- 💬 Chia sẻ kiến thức về **Web Development**
-- ⚡ **Fun fact:** Có thể debug code trong lúc ngủ! 😴💭
-
-<br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
