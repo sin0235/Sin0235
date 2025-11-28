@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=👋+Xin+chào%2C+tôi+là+Sin;🚀+Passionate+IT+Student;💻+Full-stack+Developer+in+Making;🌟+Always+Learning%2C+Always+Growing;🇻🇳+Coding+from+Vietnam" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=+Xin+chào%2C+tôi+là+Sin;+Passionate+IT+Student;+Full-stack+Developer+in+Making;+Always+Learning%2C+Always+Growing;🇻🇳+Coding+from+Vietnam" />
 </h1>
 
 <div align="center">
@@ -13,10 +13,10 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sin0235&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge&labelColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=sin0235&label=+Profile+Views&color=blueviolet&style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/github/followers/sin0235?style=for-the-badge&logo=github&label=Followers&color=blue&labelColor=black" />
   <img src="https://img.shields.io/badge/🇻🇳+Vietnam-red?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/🎓+IT+Student-orange?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/+IT+Student-orange?style=for-the-badge&labelColor=black" />
 </div>
 
 <br>
@@ -46,14 +46,14 @@
 const sin0235 = {
     name: "sin0235",
     location: "🇻🇳 Vietnam",
-    role: "🎓 IT Student",
-    passion: "💻 Coding & Technology",
+    role: " IT Student",
+    passion: " Coding & Technology",
     languages: ["JavaScript", "Python", "Java"],
     learning: ["React", "Node.js", "AI/ML"],
-    hobbies: ["🎮 Gaming", "📚 Reading", "🎵 Music"],
-    lifePhilosophy: "Code. Learn. Repeat. 🔄",
+    hobbies: [" Gaming", " Reading", " Music"],
+    lifePhilosophy: "Code. Learn. Repeat.",
     availableForWork: true,
-    currentMood: "🚀 Ready to build amazing things!"
+    currentMood: "Ready to build amazing things!"
 };
 ```
 
@@ -111,20 +111,20 @@ const sin0235 = {
 
 <div align="center">
 
-### 🌐 **Hãy kết nối và cùng nhau phát triển!**
+### **Hãy kết nối và cùng nhau phát triển!**
 
 <br>
 
 <a href="mailto:phuctoan235@gmail.com">
-  <img src="https://img.shields.io/badge/📧+Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/+Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sin0235">
-  <img src="https://img.shields.io/badge/🐙+GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/+GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/psin235">
-  <img src="https://img.shields.io/badge/📘+Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/+Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
 <a href="https://discord.gg/sin0235">
@@ -149,13 +149,13 @@ const sin0235 = {
 
 <div align="center">
 
-### 🎯 **Coding Journey**
+### **Coding Journey**
 ```
 Beginner  ████████████████████████████████████████  Expert
                                     👈 sin0235 (75%)
 ```
 
-### ☕ **Coffee to Code Converter**
+### **Coffee to Code Converter**
 ```javascript
 while (coffee.available() && !project.isComplete()) {
     code();
@@ -164,7 +164,7 @@ while (coffee.available() && !project.isComplete()) {
 }
 ```
 
-### 🌟 **Daily Motivation**
+### **Daily Motivation**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
@@ -189,7 +189,7 @@ while (coffee.available() && !project.isComplete()) {
 
 <div align="center">
 
-### 🎨 **Profile Views Snake**
+### **Profile Views Snake**
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
