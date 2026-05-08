@@ -128,7 +128,7 @@ class AIStudent:
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sin0235&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sin0235&theme=github_dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sin0235&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
 </div>
 
@@ -141,7 +141,7 @@ class AIStudent:
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin0235&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sin0235&theme=github_dark" />
 </div>
 
 <br>
