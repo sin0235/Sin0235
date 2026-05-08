@@ -1,22 +1,19 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SIN&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Passionate%20Developer%20%7C%20Creative%20Coder%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SIN&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Sinh%20vi%C3%AAn%20CNTT%20%7C%20Chuy%C3%AAn%20ng%C3%A0nh%20Tr%C3%AD%20tu%E1%BB%87%20Nh%C3%A2n%20t%E1%BA%A1o&descAlignY=51&descAlign=62&descSize=20" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=+Xin+chào%2C+tôi+là+Sin;+Passionate+IT+Student;+Full-stack+Developer+in+Making;+Always+Learning%2C+Always+Growing;🇻🇳+Coding+from+Vietnam" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Xin+chào%2C+tôi+là+Sin;Sinh+viên+CNTT+chuyên+ngành+AI;Đam+mê+phát+triển+giải+pháp+thông+minh;Luôn+học+hỏi%2C+luôn+tiến+bộ" />
 </h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sin0235&label=+Profile+Views&color=blueviolet&style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/github/followers/sin0235?style=for-the-badge&logo=github&label=Followers&color=blue&labelColor=black" />
-  <img src="https://img.shields.io/badge/🇻🇳+Vietnam-red?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/+IT+Student-orange?style=for-the-badge&labelColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=sin0235&label=Lượt+xem+hồ+sơ&color=blueviolet&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/github/followers/sin0235?style=for-the-badge&logo=github&label=Người+theo+dõi&color=blue&labelColor=black" />
+  <img src="https://img.shields.io/badge/Quốc+gia-Việt+Nam-red?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Chuyên+ngành-Trí+tuệ+Nhân+tạo-orange?style=for-the-badge&labelColor=black" />
 </div>
 
 <br>
@@ -34,28 +31,39 @@
 
 <br>
 
+## 👨‍💻 Về tôi
+
+Chào bạn! Tôi là Sin, một sinh viên Công nghệ Thông tin đầy nhiệt huyết, chuyên sâu vào lĩnh vực Trí tuệ Nhân tạo. Tôi luôn tìm kiếm những cơ hội để học hỏi, phát triển kỹ năng và đóng góp vào các dự án sáng tạo, đặc biệt là trong các ứng dụng của AI và Machine Learning.
+
+Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và JavaScript, cùng với sự quan tâm đặc biệt đến các framework và thư viện AI/ML như TensorFlow, PyTorch và Scikit-learn. Mục tiêu của tôi là trở thành một nhà phát triển AI có khả năng xây dựng các giải pháp thông minh, hiệu quả và có ý nghĩa.
+
+<br>
+
+## 🛠️ Kỹ năng và Công cụ
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h3>Ngôn ngữ lập trình</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <h3>Framework & Thư viện AI/ML</h3>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+
+  <h3>Công cụ & Nền tảng</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"> **Về tôi**
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-```javascript
-const sin0235 = {
-    name: "sin0235",
-    location: "🇻🇳 Vietnam",
-    role: " IT Student",
-    passion: " Coding & Technology",
-    languages: ["JavaScript", "Python", "Java"],
-    learning: ["React", "Node.js", "AI/ML"],
-    hobbies: [" Gaming", " Reading", " Music"],
-    lifePhilosophy: "Code. Learn. Repeat.",
-    availableForWork: true,
-    currentMood: "Ready to build amazing things!"
-};
-```
 
 <br>
 
@@ -65,11 +73,7 @@ const sin0235 = {
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> **GitHub Analytics**
+## 📊 Thống kê GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sin0235&theme=radical" />
@@ -91,11 +95,7 @@ const sin0235 = {
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> **GitHub Trophies**
+## 🏆 Thành tích GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sin0235&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
@@ -103,11 +103,7 @@ const sin0235 = {
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> **Connect With Me**
+## 🤝 Kết nối với tôi
 
 <div align="center">
 
@@ -116,66 +112,32 @@ const sin0235 = {
 <br>
 
 <a href="mailto:phuctoan235@gmail.com">
-  <img src="https://img.shields.io/badge/+Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Email-phuctoan235@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sin0235">
-  <img src="https://img.shields.io/badge/+GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-sin0235-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/psin235">
-  <img src="https://img.shields.io/badge/+Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Facebook-psin235-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" />
 </a>
 &nbsp;&nbsp;
 <a href="https://discord.gg/sin0235">
-  <img src="https://img.shields.io/badge/💬+Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Discord-sin0235-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" />
 </a>
 
 <br><br>
 
-### 💌 **Email:** phuctoan235@gmail.com
-### 🌍 **Location:** Vietnam 🇻🇳
-### 💼 **Status:** Open for opportunities!
+### 📧 **Email:** phuctoan235@gmail.com
+### 📍 **Địa điểm:** Việt Nam
+### 💼 **Trạng thái:** Sẵn sàng cho các cơ hội hợp tác!
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> **Fun Zone**
-
-<div align="center">
-
-### **Coding Journey**
-```
-Beginner  ████████████████████████████████████████  Expert
-                                    👈 sin0235 (75%)
-```
-
-### **Coffee to Code Converter**
-```javascript
-while (coffee.available() && !project.isComplete()) {
-    code();
-    debug();
-    repeat();
-}
-```
-
-### **Daily Motivation**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> **Recent Activity**
+## 🚀 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
 <!-- This section will be auto-updated by GitHub Actions -->
@@ -184,12 +146,8 @@ while (coffee.available() && !project.isComplete()) {
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
-<div align="center">
-
-### **Profile Views Snake**
+### **Lịch sử đóng góp GitHub**
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
@@ -201,12 +159,12 @@ while (coffee.available() && !project.isComplete()) {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=✨+Cảm+ơn+bạn+đã+ghé+thăm!+✨;🚀+Let's+build+something+amazing+together!;💫+Always+open+for+collaboration!;🌟+Happy+Coding!+🌟" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cảm+ơn+bạn+đã+ghé+thăm!;Hãy+cùng+nhau+xây+dựng+những+điều+tuyệt+vời!;Luôn+sẵn+sàng+hợp+tác!;Chúc+bạn+lập+trình+vui+vẻ!" />
 </div>
 
 <div align="center">
-  <h3>💝 Made with ❤️ by sin0235</h3>
-  <p><i>"Code is poetry written in logic"</i></p>
+  <h3>💝 Được tạo bởi sin0235</h3>
+  <p><i>"Code là thơ được viết bằng logic"</i></p>
 </div>
 
 <div align="center">
