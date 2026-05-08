@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Science+Student+from+Vietnam;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Science+Student+from+Vietnam;Building+Intelligent+Systems" />
 </div>
 
 <br>
