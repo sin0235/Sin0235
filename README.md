@@ -1,19 +1,19 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SIN&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Sinh%20vi%C3%AAn%20CNTT%20%7C%20Chuy%C3%AAn%20ng%C3%A0nh%20Tr%C3%AD%20tu%E1%BB%87%20Nh%C3%A2n%20t%E1%BA%A1o&descAlignY=51&descAlign=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SIN&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=IT%20Student%20%7C%20Artificial%20Intelligence%20Major&descAlignY=51&descAlign=62&descSize=20" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Xin+chào%2C+tôi+là+Sin;Sinh+viên+CNTT+chuyên+ngành+AI;Đam+mê+phát+triển+giải+pháp+thông+minh;Luôn+học+hỏi%2C+luôn+tiến+bộ" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I'm+Sin;AI+Focused+IT+Student;Passionate+about+Intelligent+Solutions;Always+Learning%2C+Always+Growing" />
 </h1>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sin0235&label=Lượt+xem+hồ+sơ&color=blueviolet&style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/github/followers/sin0235?style=for-the-badge&logo=github&label=Người+theo+dõi&color=blue&labelColor=black" />
-  <img src="https://img.shields.io/badge/Quốc+gia-Việt+Nam-red?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Chuyên+ngành-Trí+tuệ+Nhân+tạo-orange?style=for-the-badge&labelColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=sin0235&label=Profile+Views&color=blueviolet&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/github/followers/sin0235?style=for-the-badge&logo=github&label=Followers&color=blue&labelColor=black" />
+  <img src="https://img.shields.io/badge/Country-Vietnam-red?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Major-Artificial+Intelligence-orange?style=for-the-badge&labelColor=black" />
 </div>
 
 <br>
@@ -31,24 +31,24 @@
 
 <br>
 
-## 👨‍💻 Về tôi
+## 👨‍💻 About Me
 
-Chào bạn! Tôi là Sin, một sinh viên Công nghệ Thông tin đầy nhiệt huyết, chuyên sâu vào lĩnh vực Trí tuệ Nhân tạo. Tôi luôn tìm kiếm những cơ hội để học hỏi, phát triển kỹ năng và đóng góp vào các dự án sáng tạo, đặc biệt là trong các ứng dụng của AI và Machine Learning.
+Hello! I'm Sin, a passionate Information Technology student specializing in Artificial Intelligence. I am always seeking opportunities to learn, develop my skills, and contribute to innovative projects, especially in the applications of AI and Machine Learning.
 
-Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và JavaScript, cùng với sự quan tâm đặc biệt đến các framework và thư viện AI/ML như TensorFlow, PyTorch và Scikit-learn. Mục tiêu của tôi là trở thành một nhà phát triển AI có khả năng xây dựng các giải pháp thông minh, hiệu quả và có ý nghĩa.
+I have experience with programming languages such as Python, Java, and JavaScript, along with a keen interest in AI/ML frameworks and libraries like TensorFlow, PyTorch, and Scikit-learn. My goal is to become an AI developer capable of building intelligent, efficient, and meaningful solutions.
 
 <br>
 
-## 🛠️ Kỹ năng và Công cụ
+## 🛠️ Skills & Tools
 
 <div align="center">
-  <h3>Ngôn ngữ lập trình</h3>
+  <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
-  <h3>Framework & Thư viện AI/ML</h3>
+  <h3>AI/ML Frameworks & Libraries</h3>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -56,7 +56,7 @@ Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
 
-  <h3>Công cụ & Nền tảng</h3>
+  <h3>Tools & Platforms</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -73,7 +73,7 @@ Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và
 
 <br>
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sin0235&theme=radical" />
@@ -95,7 +95,7 @@ Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và
 
 <br>
 
-## 🏆 Thành tích GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sin0235&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
@@ -103,11 +103,11 @@ Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và
 
 <br>
 
-## 🤝 Kết nối với tôi
+## 🤝 Connect With Me
 
 <div align="center">
 
-### **Hãy kết nối và cùng nhau phát triển!**
+### **Let's connect and grow together!**
 
 <br>
 
@@ -130,14 +130,14 @@ Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và
 <br><br>
 
 ### 📧 **Email:** phuctoan235@gmail.com
-### 📍 **Địa điểm:** Việt Nam
-### 💼 **Trạng thái:** Sẵn sàng cho các cơ hội hợp tác!
+### 📍 **Location:** Vietnam
+### 💼 **Status:** Open for opportunities!
 
 </div>
 
 <br>
 
-## 🚀 Hoạt động gần đây
+## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
 <!-- This section will be auto-updated by GitHub Actions -->
@@ -147,7 +147,7 @@ Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và
 
 <div align="center">
 
-### **Lịch sử đóng góp GitHub**
+### **GitHub Contribution Graph**
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
@@ -159,12 +159,12 @@ Tôi có kinh nghiệm với các ngôn ngữ lập trình như Python, Java và
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cảm+ơn+bạn+đã+ghé+thăm!;Hãy+cùng+nhau+xây+dựng+những+điều+tuyệt+vời!;Luôn+sẵn+sàng+hợp+tác!;Chúc+bạn+lập+trình+vui+vẻ!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together!;Always+open+for+collaboration!;Happy+Coding!" />
 </div>
 
 <div align="center">
-  <h3>💝 Được tạo bởi sin0235</h3>
-  <p><i>"Code là thơ được viết bằng logic"</i></p>
+  <h3>💝 Made with ❤️ by sin0235</h3>
+  <p><i>"Code is poetry written in logic"</i></p>
 </div>
 
 <div align="center">
