@@ -86,23 +86,12 @@ class AIStudent:
 
 ## Dự án nổi bật
 
-<div align="center">
-  <a href="https://github.com/sin0235/ai-math-visualizer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=ai-math-visualizer&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/sin0235/restaurant-absa">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=restaurant-absa&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/sin0235/face-recognition-system">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=face-recognition-system&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/sin0235/rl-portfolio-trading">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=rl-portfolio-trading&theme=github_dark&hide_border=true" />
-  </a>
-</div>
+| Project | Nội dung | Công nghệ |
+|---|---|---|
+| [AI Math Visualizer](https://github.com/sin0235/ai-math-visualizer) | Giải và trực quan hóa toán học 2D/3D bằng AI | Python, FastAPI, React, OCR |
+| [Restaurant ABSA](https://github.com/sin0235/restaurant-absa) | Phân tích cảm xúc theo khía cạnh với ba kiến trúc mô hình | PyTorch, DeBERTa, BiLSTM, CRF |
+| [Face Recognition System](https://github.com/sin0235/face-recognition-system) | Nhận dạng khuôn mặt đa mô hình và Grad-CAM | ArcFace, FaceNet, LBPH, Flask |
+| [RL Portfolio Trading](https://github.com/sin0235/rl-portfolio-trading) | Phân bổ danh mục cổ phiếu bằng reinforcement learning | PPO, DDQ, LSTM, PyTorch |
 
 ---
 
@@ -184,14 +173,6 @@ class AIStudent:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sin0235&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sin0235&theme=github_dark&utcOffset=7" />
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sin0235&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </div>
 
 ---
