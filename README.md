@@ -18,7 +18,7 @@
 
 ---
 
-## Gioi thieu
+## Giới thiệu
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ class AIStudent:
 <td width="45%">
 
 **Hiện tại:**
-- Sinh viên Công nghệ Thông tin, chuyên ngành Tri tue nhan tao
+- Sinh viên Công nghệ Thông tin, chuyên ngành Trí tuệ nhân tạo
 - Nghiên cứu và thực hành Deep Learning, NLP
 - Phát triển ứng dụng web full-stack
 
@@ -81,6 +81,28 @@ class AIStudent:
 </td>
 </tr>
 </table>
+
+---
+
+## Dự án nổi bật
+
+<div align="center">
+  <a href="https://github.com/sin0235/math_ai_visualize">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=math_ai_visualize&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/sin0235/NLP">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=NLP&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/sin0235/FaceRecognition">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=FaceRecognition&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/sin0235/Trading_Project_RL">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=Trading_Project_RL&theme=github_dark&hide_border=true" />
+  </a>
+</div>
 
 ---
 
