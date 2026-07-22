@@ -87,20 +87,20 @@ class AIStudent:
 ## Dự án nổi bật
 
 <div align="center">
-  <a href="https://github.com/sin0235/math_ai_visualize">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=math_ai_visualize&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/sin0235/ai-math-visualizer">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=ai-math-visualizer&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/sin0235/NLP">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=NLP&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/sin0235/restaurant-absa">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=restaurant-absa&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/sin0235/FaceRecognition">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=FaceRecognition&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/sin0235/face-recognition-system">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=face-recognition-system&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/sin0235/Trading_Project_RL">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=Trading_Project_RL&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/sin0235/rl-portfolio-trading">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sin0235&repo=rl-portfolio-trading&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
